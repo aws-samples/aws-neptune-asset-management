@@ -72,7 +72,7 @@ e.	Click <b>Create notebook </b>
 7.	Click <b>upload</b>
 8.	Upload the provided Neptune notebook <b> < assetmanagement.ipynb> </b>
 9.	Open the Jypiter notebook, read the instructions, and execute each cell to build the asset management graph.
-10.	Follow the instructions on the Jypiter notebook to complete the lab.
+10.	Follow the instructions on the Jypiter notebook (assetmanagement.ipynb) to complete the lab.
 
 
 
