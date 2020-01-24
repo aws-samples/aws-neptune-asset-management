@@ -33,10 +33,10 @@ In this section, you will learn how to launch a fully managed Neptune cluster.
 </br>
 1.	Go to [Neptune Console](https://console.aws.amazon.com/neptune/home?)
 2. Click <b>Launch Amazon Neptune </b> or <b>Create Database </b>
-3.	Enter the following specifications
-  a.	DB Engine: 1.0.2.1.R4
-  b.	DB instance size: db.r4.large
-  c.	Enable High Availability – No
+3.	Enter the following specifications </br>
+  a.	DB Engine: 1.0.2.1.R4 </br>
+  b.	DB instance size: db.r4.large </br>
+  c.	Enable High Availability – No </br>
   d.	Instance identifier: <your_initials_neptune_db>
 
 4. Click <b>Next</b>
@@ -58,17 +58,17 @@ In this section, you will learn how to launch the Neptune workbench and run grem
 
 ![Creating a notebook](/images/creating_notebook.png)
 
-4.	Under Notebook Configuration, enter the following:
-a.	Choose previously created cluster <b> <your_initials_neptune_cluster> </b>
-b. Enter Notebook name <b> <asset-management-notebook> </b>
-c.	Select <b>Create IAM Role </b>
-d.	Enter IAM role name <b><your-initials-neptune-notebook-role> </b>
+4.	Under Notebook Configuration, enter the following:</br>
+a.	Choose previously created cluster <b> <your_initials_neptune_cluster> </b> </br>
+b. Enter Notebook name <b> <asset-management-notebook> </b> </br>
+c.	Select <b>Create IAM Role </b> </br>
+d.	Enter IAM role name <b><your-initials-neptune-notebook-role> </b> </br>
 e.	Click <b>Create notebook </b>
 
 ![notebook configuration](/images/notebook_configuration.png)
 
 5.	Once the neptune notebook status is <b>Ready </b>, click on select notebook and click <b>Open notebook</b>
-6.	 Click <b>Neptune </b> directory
+6.	Click <b>Neptune </b> directory
 7.	Click <b>upload</b>
 8.	Upload the provided Neptune notebook <b> < assetmanagement.ipynb> </b>
 9.	Open the Jypiter notebook, read the instructions, and execute each cell to build the asset management graph.
