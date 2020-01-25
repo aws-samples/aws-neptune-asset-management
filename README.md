@@ -1,6 +1,6 @@
 ## Connected Platform – Integrating Sales and Service with AWS Neptune
 
-Deciphering and exploring relationships that exists between sales and service can help companies drive revenue.   AWS Neptune can help companies realize and explore trends, make better recommendations, and easily navigate highly connected and complex datasets.  Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications.  Neptune can serve as an asset management platform, connecting sales and service data across the organization.
+Deciphering and exploring relationships that exists between sales and service can help companies drive revenue.   AWS Neptune can help companies realize and explore trends, make better recommendations, and easily navigate highly connected and complex datasets.  Amazon Neptune is a fast, reliable, managed graph database service that makes it easy to build and run applications.  Neptune can serve as an asset management platform, connecting sales and service data across the organization.
 
 In this workshop, we will build a connected graph that integrates sales and service data using AWS Neptune.  Once the graph is built, we will explore how sales analysts can use sale and service data in Neptune to identify additional sales opportunities.
 
